@@ -11,10 +11,7 @@
       <div class="info-grid">
         <div class="info-card">
           <h3>Personal Info</h3>
-          <p><strong>Phone:</strong> +6019-483-6310</p>
-          <p><strong>Email:</strong> <a href="mailto:m.ikhw4n@gmail.com">m.ikhw4n@gmail.com</a></p>
           <p><strong>Address:</strong> Cyberjaya, Selangor</p>
-          <p><strong>References:</strong> Bernard Tan, Manager at Mtech Manufacturing</p>
         </div>
         <div class="info-card">
           <h3>About Me</h3>
