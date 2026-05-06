@@ -56,6 +56,14 @@ Update the content in these files to personalize your portfolio:
 
 The download button links to `public/resume.pdf`. Replace that file with your actual resume PDF to make the download work.
 
+## GitHub Pages deployment
+
+This repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml`. When you push to `main` or `master`, the site will be built and published automatically to the `gh-pages` branch.
+
+If your repository is hosted at `https://github.com/<username>/git-portfolio`, your site will be available at:
+
+- `https://<username>.github.io/git-portfolio/`
+
 ## Notes
 
 This project is intended as a simple portfolio starter that you can extend with more sections, animations, or project cards.
