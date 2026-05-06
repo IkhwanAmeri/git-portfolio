@@ -11,7 +11,7 @@
       </ul>
 
       <div class="nav-actions">
-        <a class="resume-button" href="/Ikhwan_resume_2026.pdf" download>Download Resume</a>
+        <a class="resume-button" href="resume.pdf" download>Download Resume</a>
         <button class="theme-toggle" type="button" @click="$emit('toggle-theme')" :aria-label="theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme'">
           <span>{{ theme === 'dark' ? '☀️ Light' : '🌙 Dark' }}</span>
         </button>
